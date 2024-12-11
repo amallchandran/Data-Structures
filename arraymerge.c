@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	printf("Hello");
  	int a[100],b[100],c[200],i,i1,j,j1,k,n,m,t,p;
  	printf("Enter the first array limit :");
  	scanf("%d",&n);
